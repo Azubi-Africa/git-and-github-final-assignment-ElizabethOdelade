@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |    mnist   |  shifting mnist images      | https://github.com/ElizabethOdelade/mnist.git      |
+| 2 |  nyc-parking-violation             |  EDA on nyc parking violation            |   https://github.com/ElizabethOdelade/nyc-parking-violation.git     |
+| 3 |  housing-project            |  housing price prediction            | https://github.com/ElizabethOdelade/housing-project.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
